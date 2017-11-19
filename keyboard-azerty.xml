@@ -4,12 +4,13 @@
 
  US keyboard layout by Matt Reimer <mreimer@vpop.net>
  Passage en AZERTY par Jean-Jacques
+ Modification by Guilhem Eydieux 
 
 -->
   <options>
     <!-- not yet implemented -->
   </options>
-  
+
   <layout id="default keyboard">
     <!--
 
